@@ -1,10 +1,10 @@
 #!/bin/bash
 echo ""
 
- read -p "Input the year, if you provide non legitimate year it will not show contributions be carefull:" year
- read -p "Input the file you wanna make fake contributions in ~  example of input ~ contribute.txt :" fileToContributeIn
- read -p "Input the commit message for each commit :" commitMessage
- read -p "Input the commit data aka the data that would be added to $fileToContributeIn  as contribution :" dataToContribute
+ read -p "year :" year
+ read -p "file :" fileToContributeIn
+ read -p "message :" commitMessage
+ read -p "data :" dataToContribute
 
 
 if [[ $year -gt 2024 || $year -lt 1969 ]]
