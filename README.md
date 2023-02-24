@@ -1,6 +1,6 @@
 # Contribution
 
-Intro
+<h1>Intro</h1>
 The main file in this repo that's useful to you is contribute.sh ........... This is a shell script aka mogicccccc 😂 This shell script will take some inputs like commit message, year, data to enter as contribution, and file for make contributions in. With the power of these inputs this shell script will provide extreme consistency 😂☕️ aka fake commits.
 
 <br>
