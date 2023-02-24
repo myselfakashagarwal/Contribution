@@ -31,3 +31,7 @@ In terms of wrong commits delete that repo 😂
 To terminate script in between press ^c
 
 #Best of luck 💀
+
+<img width="733" alt="Screenshot 2023-02-24 at 7 31 53 PM" src="https://user-images.githubusercontent.com/106314226/221197420-b3612edf-f950-4f77-8d74-9fc379ef9d37.png">
+
+
